@@ -58,5 +58,6 @@ Create a .env file in the root folder and add the following variables:
 - Visit http://localhost:3000 in your browser to view the app.
 
 ## Live Demo
- [Check out the live demo of the Weather App]( harsh-yadav-weather-forecast.netlify.app)
+ [Live Demo of Weather App](https://harsh-yadav-weather-forecast.netlify.app/)
+
 
